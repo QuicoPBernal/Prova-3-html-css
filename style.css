@@ -1,0 +1,19 @@
+html {
+  width: 616px;
+}
+table {
+  border-collapse: collapse;
+  width: 600px;
+}
+th, td {
+  border: 1px solid black;
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 8px;
+  width: 85.71px;
+}
+td {
+  background-color: #ffffff;
+  text-align: left;
+  height: 16px;
+}
